@@ -4,6 +4,12 @@ import java.nio.file.Paths;
 
 import javax.swing.JFileChooser;
 
+/**
+ * This class loads sequence data from a file.
+ * @author marek
+ *
+ */
+
 public abstract class SequenceLoader {
 
 	protected String sequence;
